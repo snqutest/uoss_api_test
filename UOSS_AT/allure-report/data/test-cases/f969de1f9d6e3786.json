@@ -1,0 +1,54 @@
+{
+  "uid" : "f969de1f9d6e3786",
+  "name" : "test_login",
+  "fullName" : "case.test_uoss.Test_Uoss#test_login",
+  "historyId" : "407cbda6e933c99b9c245d453000192c",
+  "time" : {
+    "start" : 1619687126271,
+    "stop" : 1619687126674,
+    "duration" : 403
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_uoss"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Uoss"
+  }, {
+    "name" : "host",
+    "value" : "localhost.localdomain"
+  }, {
+    "name" : "thread",
+    "value" : "2381-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_uoss"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f969de1f9d6e3786.json",
+  "parameterValues" : [ ]
+}

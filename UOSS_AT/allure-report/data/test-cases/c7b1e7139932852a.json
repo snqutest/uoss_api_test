@@ -1,0 +1,54 @@
+{
+  "uid" : "c7b1e7139932852a",
+  "name" : "test_product_01",
+  "fullName" : "case.test_uoss.Test_Uoss#test_product_01",
+  "historyId" : "075d89684fa02efde7190d142d0e7b4c",
+  "time" : {
+    "start" : 1618541289671,
+    "stop" : 1618541290080,
+    "duration" : 409
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_uoss"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Uoss"
+  }, {
+    "name" : "host",
+    "value" : "localhost.localdomain"
+  }, {
+    "name" : "thread",
+    "value" : "98844-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_uoss"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7b1e7139932852a.json",
+  "parameterValues" : [ ]
+}

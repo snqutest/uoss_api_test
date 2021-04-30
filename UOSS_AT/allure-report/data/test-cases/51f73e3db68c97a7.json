@@ -1,0 +1,171 @@
+{
+  "uid" : "51f73e3db68c97a7",
+  "name" : "test_login_fail_02[data1]",
+  "fullName" : "case.test_uoss.Test_Uoss#test_login_fail_02",
+  "historyId" : "a774c7ec660cb0a92f7a296f27e94777",
+  "time" : {
+    "start" : 1619744429936,
+    "stop" : 1619744429974,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_uoss"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Uoss"
+  }, {
+    "name" : "host",
+    "value" : "localhost.localdomain"
+  }, {
+    "name" : "thread",
+    "value" : "3514-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_uoss"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'email': '', 'password': 'test123456'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b501c0d422b900ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619694001992,
+        "stop" : 1619694002018,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "e25476bbbecc1be9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619693069646,
+        "stop" : 1619693069667,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "defa00395657bf00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619692989897,
+        "stop" : 1619692989913,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "55d84335cc3caf36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619687126947,
+        "stop" : 1619687126965,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "deaa1193e8cd7362",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618541289643,
+        "stop" : 1618541289669,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "f0ef67aa67228d87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618541058636,
+        "stop" : 1618541058658,
+        "duration" : 22
+      }
+    }, {
+      "uid" : "e108b8c3e7cd7098",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618540177441,
+        "stop" : 1618540177463,
+        "duration" : 22
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 6,
+        "unknown" : 0,
+        "total" : 6
+      },
+      "items" : [ {
+        "uid" : "3ded752baff50bf7",
+        "reportUrl" : "http://192.168.126.134:8080/job/UOSS_API/15/allure/#testresult/3ded752baff50bf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619694001992,
+          "stop" : 1619694002018,
+          "duration" : 26
+        }
+      }, {
+        "uid" : "200a64b76b10f9db",
+        "reportUrl" : "http://192.168.126.134:8080/job/UOSS_API/14/allure/#testresult/200a64b76b10f9db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619693069646,
+          "stop" : 1619693069667,
+          "duration" : 21
+        }
+      }, {
+        "uid" : "afde82a832bbaa22",
+        "reportUrl" : "http://192.168.126.134:8080/job/UOSS_API/13/allure/#testresult/afde82a832bbaa22",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619692989897,
+          "stop" : 1619692989913,
+          "duration" : 16
+        }
+      }, {
+        "uid" : "cb224f28e5205179",
+        "reportUrl" : "http://192.168.126.133:8080/job/UOSS_API/12/allure/#testresult/cb224f28e5205179",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619687126947,
+          "stop" : 1619687126965,
+          "duration" : 18
+        }
+      }, {
+        "uid" : "d31c1db6af0d0e24",
+        "reportUrl" : "http://192.168.126.133:8080/job/Test%20Job/11/allure/#testresult/d31c1db6af0d0e24",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618541289643,
+          "stop" : 1618541289669,
+          "duration" : 26
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "51f73e3db68c97a7.json",
+  "parameterValues" : [ "{'email': '', 'password': 'test123456'}" ]
+}

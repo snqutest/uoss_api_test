@@ -1,0 +1,168 @@
+{
+  "uid" : "562ce532dca6582e",
+  "name" : "test_product_02",
+  "fullName" : "case.test_uoss.Test_Uoss#test_product_02",
+  "historyId" : "9012a6ee4931a8423822ce121797ede3",
+  "time" : {
+    "start" : 1619744430597,
+    "stop" : 1619744431031,
+    "duration" : 434
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_uoss"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Uoss"
+  }, {
+    "name" : "host",
+    "value" : "localhost.localdomain"
+  }, {
+    "name" : "thread",
+    "value" : "3514-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_uoss"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d1140f028dc1281c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619694002490,
+        "stop" : 1619694002932,
+        "duration" : 442
+      }
+    }, {
+      "uid" : "d04917aaba3afa50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619693070083,
+        "stop" : 1619693070538,
+        "duration" : 455
+      }
+    }, {
+      "uid" : "59d2412c395f79e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619692990326,
+        "stop" : 1619692990776,
+        "duration" : 450
+      }
+    }, {
+      "uid" : "63fbdc66149574d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619687127394,
+        "stop" : 1619687127840,
+        "duration" : 446
+      }
+    }, {
+      "uid" : "7a92b105c746fc68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618541290081,
+        "stop" : 1618541290486,
+        "duration" : 405
+      }
+    }, {
+      "uid" : "7c8c1504715b1049",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618541059132,
+        "stop" : 1618541059569,
+        "duration" : 437
+      }
+    }, {
+      "uid" : "aefd2df4c8ad41cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618540177920,
+        "stop" : 1618540178388,
+        "duration" : 468
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 6,
+        "unknown" : 0,
+        "total" : 6
+      },
+      "items" : [ {
+        "uid" : "51ee8d41219bcd3a",
+        "reportUrl" : "http://192.168.126.134:8080/job/UOSS_API/15/allure/#testresult/51ee8d41219bcd3a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619694002490,
+          "stop" : 1619694002932,
+          "duration" : 442
+        }
+      }, {
+        "uid" : "12efdfccbc3f92bb",
+        "reportUrl" : "http://192.168.126.134:8080/job/UOSS_API/14/allure/#testresult/12efdfccbc3f92bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619693070083,
+          "stop" : 1619693070538,
+          "duration" : 455
+        }
+      }, {
+        "uid" : "c6192e21b495691d",
+        "reportUrl" : "http://192.168.126.134:8080/job/UOSS_API/13/allure/#testresult/c6192e21b495691d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619692990326,
+          "stop" : 1619692990776,
+          "duration" : 450
+        }
+      }, {
+        "uid" : "6e4019bb03ebda25",
+        "reportUrl" : "http://192.168.126.133:8080/job/UOSS_API/12/allure/#testresult/6e4019bb03ebda25",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619687127394,
+          "stop" : 1619687127840,
+          "duration" : 446
+        }
+      }, {
+        "uid" : "23135d3bee46f8ce",
+        "reportUrl" : "http://192.168.126.133:8080/job/Test%20Job/11/allure/#testresult/23135d3bee46f8ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618541290081,
+          "stop" : 1618541290486,
+          "duration" : 405
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "562ce532dca6582e.json",
+  "parameterValues" : [ ]
+}

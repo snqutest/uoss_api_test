@@ -1,0 +1,8 @@
+
+step1:在终端中输入：pytest
+
+step2:在终端中输入：
+allure generate report/result  -o ./report/allure_html/ --clean
+
+step3：然后再输入,打开美观报告：
+allure open ./report/allure_html/

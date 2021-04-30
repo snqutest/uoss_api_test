@@ -1,0 +1,5 @@
+[pytest]
+addopts = -s  --html=./Report/html/Test_Report.html --alluredir ./Report/result 
+python_files = test_*.py
+python_classes = Test*
+python_functions = test_*
