@@ -1,0 +1,125 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "case",
+    "children" : [ {
+      "name" : "test_get_message",
+      "children" : [ {
+        "name" : "test_msg",
+        "uid" : "c0baa3278bb7a672",
+        "parentUid" : "9adf1c1a4dc12f0a68d7cd7f80e2fd8d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617870482057,
+          "stop" : 1617870482228,
+          "duration" : 171
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9adf1c1a4dc12f0a68d7cd7f80e2fd8d"
+    }, {
+      "name" : "test_uoss",
+      "children" : [ {
+        "name" : "Test_Uoss",
+        "children" : [ {
+          "name" : "test_login",
+          "uid" : "8931758926c4a154",
+          "parentUid" : "a0513cb5cb97dcb1d19064b18a60fb57",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617870482230,
+            "stop" : 1617870482631,
+            "duration" : 401
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_login_fail_01[data0]",
+          "uid" : "c6700862ff4a3562",
+          "parentUid" : "a0513cb5cb97dcb1d19064b18a60fb57",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617870482633,
+            "stop" : 1617870482751,
+            "duration" : 118
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'email': 'kim.tom2050@gmail.com', 'password': 'test123xxx'}" ]
+        }, {
+          "name" : "test_login_fail_01[data1]",
+          "uid" : "d35cefbc45dc5612",
+          "parentUid" : "a0513cb5cb97dcb1d19064b18a60fb57",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617870482753,
+            "stop" : 1617870482880,
+            "duration" : 127
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'email': 'kim.tom2050@gmail.com', 'password': 'test1234560'}" ]
+        }, {
+          "name" : "test_login_fail_02[data0]",
+          "uid" : "17a4fd112862c8ef",
+          "parentUid" : "a0513cb5cb97dcb1d19064b18a60fb57",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617870482883,
+            "stop" : 1617870482904,
+            "duration" : 21
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'email': 'kim.tom2050@gmail.com', 'password': ''}" ]
+        }, {
+          "name" : "test_login_fail_02[data1]",
+          "uid" : "e37a0af21b71406c",
+          "parentUid" : "a0513cb5cb97dcb1d19064b18a60fb57",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617870482906,
+            "stop" : 1617870482924,
+            "duration" : 18
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'email': '', 'password': 'test123456'}" ]
+        }, {
+          "name" : "test_product_01",
+          "uid" : "1ff9cf8e98569b7b",
+          "parentUid" : "a0513cb5cb97dcb1d19064b18a60fb57",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617870482926,
+            "stop" : 1617870483343,
+            "duration" : 417
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_product_02",
+          "uid" : "c3de26a7f1e51ea0",
+          "parentUid" : "a0513cb5cb97dcb1d19064b18a60fb57",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617870483345,
+            "stop" : 1617870483777,
+            "duration" : 432
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a0513cb5cb97dcb1d19064b18a60fb57"
+      } ],
+      "uid" : "8a79f9ea112e6cc6faec49aaa4cf9817"
+    } ],
+    "uid" : "7559db31629684e5f31176d189a833ac"
+  } ]
+}

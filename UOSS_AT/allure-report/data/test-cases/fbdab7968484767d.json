@@ -1,0 +1,57 @@
+{
+  "uid" : "fbdab7968484767d",
+  "name" : "test_login_fail_01[data0]",
+  "fullName" : "case.test_uoss.Test_Uoss#test_login_fail_01",
+  "historyId" : "ad441945ae65ac20919125ee0c10b474",
+  "time" : {
+    "start" : 1619692989623,
+    "stop" : 1619692989749,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_uoss"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Uoss"
+  }, {
+    "name" : "host",
+    "value" : "localhost.localdomain"
+  }, {
+    "name" : "thread",
+    "value" : "2897-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_uoss"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'email': 'kim.tom2050@gmail.com', 'password': 'test123xxx'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fbdab7968484767d.json",
+  "parameterValues" : [ "{'email': 'kim.tom2050@gmail.com', 'password': 'test123xxx'}" ]
+}

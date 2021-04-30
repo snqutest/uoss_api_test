@@ -1,0 +1,57 @@
+{
+  "uid" : "b501c0d422b900ce",
+  "name" : "test_login_fail_02[data1]",
+  "fullName" : "case.test_uoss.Test_Uoss#test_login_fail_02",
+  "historyId" : "a774c7ec660cb0a92f7a296f27e94777",
+  "time" : {
+    "start" : 1619694001992,
+    "stop" : 1619694002018,
+    "duration" : 26
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_uoss"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Uoss"
+  }, {
+    "name" : "host",
+    "value" : "localhost.localdomain"
+  }, {
+    "name" : "thread",
+    "value" : "3015-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_uoss"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'email': '', 'password': 'test123456'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b501c0d422b900ce.json",
+  "parameterValues" : [ "{'email': '', 'password': 'test123456'}" ]
+}
