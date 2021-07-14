@@ -11,7 +11,7 @@ headers = {"device-uuid": "a16c50f1-7f40-3ac4-9343-b47114455300",
            "Accept": "application/json"
            }
 
-params = {"locale": "en", "pattern": "msg", "last_at": "1614746473"}
+params = {"locale": "en", "pattern": "nts", "last_at": "1614746473"}
 url = 'http://test.uom.com'
 
 
